@@ -10,4 +10,4 @@
 
 ## Made with ♥ By [Arkadipta Mojumder](https://www.linkedin.com/in/arkadipta-mojumder)
 
-MIT © [Piyush Agarwal ](https://github.com/arkaslittlemind)
+MIT © [Arkadipta Mojumder](https://github.com/arkaslittlemind)
